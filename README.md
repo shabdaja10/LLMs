@@ -1,2 +1,2 @@
 # Large Language Models 
-1. Llama 2
+1. Llama2 fine tuning 
